@@ -1,27 +1,5 @@
 [
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=anime-world.in&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 18421,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 5,
-        "internalName": "AnimeWorldProvider",
-        "description": "Please wait for 10seconds to bypass the ads",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/AnimeWorldProvider.cs3",
-        "name": "AnimeWorldProvider"
-    },
-    {
+      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bolly2tolly.desi/&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
@@ -45,7 +23,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
         "fileSize": 11305,
-        "status": 1,
+        "status": 0,
         "language": "hi",
         "authors": [
             "darkdemon"
