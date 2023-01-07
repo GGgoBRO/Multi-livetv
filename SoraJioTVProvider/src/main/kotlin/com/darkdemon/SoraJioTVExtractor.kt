@@ -111,7 +111,7 @@ object SoraJioTVExtractor: SoraJioTVProvider() {
         id: String? = null,
         category: Int? = null,
         callback: (ExtractorLink) -> Unit
-    ) { 
+    ){ 
             val link = "$TMLJioTV/autoq.php?c=$id"
             callback.invoke(
                 ExtractorLink(
