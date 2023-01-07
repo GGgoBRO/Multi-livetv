@@ -105,7 +105,7 @@
         "status": 0,
         "language": "hi",
         "authors": [
-            "darkdemon"
+            "GGgoBRO"
         ],
         "tvTypes": [
             "Live"
@@ -113,7 +113,7 @@
         "version": 1,
         "internalName": "GDJioTVProvider",
         "description": "JioTV channels",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/GDJioTVProvider.cs3",
+        "url": "https://github.com/GGgoBRO/Multi-livetv/blob/builds/GDJioTVProvider.cs3",
         "name": "GDJioTVProvider"
     },
     {
