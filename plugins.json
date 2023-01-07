@@ -37,25 +37,7 @@
         "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/MHDTVProvider.cs3",
         "name": "MHDTVProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=nayeemparvez.chadasaniya.cf&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GGgoBRO/Multi-livetv",
-        "fileSize": 9116,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "NPJioTVProvider",
-        "description": "JioTV Plus channels",
-        "url": "https://raw.githubusercontent.com/GGgoBRO/Multi-livetv/builds/NPJioTVProvider.cs3",
-        "name": "NPJioTVProvider"
-    }, 
+ 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=snehiptv.netlify.app&sz=%size%",
         "apiVersion": 1,
