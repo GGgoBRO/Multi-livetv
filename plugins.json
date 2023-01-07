@@ -40,9 +40,9 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=nayeemparvez.chadasaniya.cf&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+        "repositoryUrl": "https://github.com/GGgoBRO/Multi-livetv",
         "fileSize": 9116,
-        "status": 0,
+        "status": 1,
         "language": "hi",
         "authors": [
             "darkdemon"
@@ -53,7 +53,7 @@
         "version": 2,
         "internalName": "NPJioTVProvider",
         "description": "JioTV Plus channels",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/NPJioTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/GGgoBRO/Multi-livetv/builds/NPJioTVProvider.cs3",
         "name": "NPJioTVProvider"
     }, 
     {
