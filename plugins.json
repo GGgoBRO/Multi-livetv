@@ -1,70 +1,13 @@
-[       
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.cinevez.mx&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 11305,
-        "status": 0,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "CinevezProvider",
-        "description": "This website support English/Hindi/Kannada/Malayalam/Tamil/Telugu",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/CinevezProvider.cs3",
-        "name": "CinevezProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=pc9.crichd.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 11660,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "CricHDProvider",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/CricHDProvider.cs3",
-        "name": "CricHDProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=einthusan.tv&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 16289,
-        "status": 0,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "EinthusanProvider",
-        "description": "This website support Hindi/Marathi/Kannada/Malayalam/Tamil/Telugu/Bengali/Punjabi\nFor Searching format: language,title\nexample: hindi,kantara",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/EinthusanProvider.cs3",
-        "name": "EinthusanProvider"
-    },
+[
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv.googledrivelinks.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+        "repositoryUrl": "https://github.com/GGgoBRO/Multi-livetv",
         "fileSize": 8218,
         "status": 1,
         "language": "hi",
         "authors": [
-            "GGgoBRO"
+            "darkdemon"
         ],
         "tvTypes": [
             "Live"
@@ -72,28 +15,9 @@
         "version": 1,
         "internalName": "GDJioTVProvider",
         "description": "JioTV channels",
-        "url": "https://github.com/GGgoBRO/Multi-livetv/blob/builds/GDJioTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/GGgoBRO/Multi-livetv/builds/GDJioTVProvider.cs3",
         "name": "GDJioTVProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ww2.ibomma.cx&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GGgoBRO/Multi-livetv",
-        "fileSize": 17759,
-        "status": 1,
-        "language": "te",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "IBommaProvider",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/IBommaProvider.cs3",
-        "name": "IBommaProvider"
-    },
+    }, 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=mhdtvworld.xyz&sz=%size%",
         "apiVersion": 1,
@@ -114,26 +38,6 @@
         "name": "MHDTVProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=nollyverse.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 16970,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama"
-        ],
-        "version": 1,
-        "internalName": "NollyVerseProvider",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/NollyVerseProvider.cs3",
-        "name": "NollyVerseProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=nayeemparvez.chadasaniya.cf&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
@@ -151,45 +55,7 @@
         "description": "JioTV Plus channels",
         "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/NPJioTVProvider.cs3",
         "name": "NPJioTVProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=111.90.159.132&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 11429,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "OnlineMoviesHinditProvider",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/OnlineMoviesHinditProvider.cs3",
-        "name": "OnlineMoviesHinditProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=prmovies.homes&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 13963,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "PrmoviesProvider",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/PrmoviesProvider.cs3",
-        "name": "PrmoviesProvider"
-    },
+    }, 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=snehiptv.netlify.app&sz=%size%",
         "apiVersion": 1,
@@ -227,43 +93,5 @@
         "description": " JioTV streams from different available sources",
         "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/SoraJioTVProvider.cs3",
         "name": "SoraJioTVProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=streamblasters.lol&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 14714,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 4,
-        "internalName": "StreamBlastersProvider",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/StreamBlastersProvider.cs3",
-        "name": "StreamBlastersProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=uwatchfree.be&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 14726,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "UWatchFreeProvider",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/UWatchFreeProvider.cs3",
-        "name": "UWatchFreeProvider"
-    }
+    } 
 ]
