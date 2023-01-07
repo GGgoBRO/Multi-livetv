@@ -1,23 +1,4 @@
-[    
-   {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bolly2tolly.desi/&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
-        "fileSize": 20306,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Bolly2TollyProvider",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/Bolly2TollyProvider.cs3",
-        "name": "Bolly2TollyProvider"
-    },
+[       
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.cinevez.mx&sz=%size%",
         "apiVersion": 1,
