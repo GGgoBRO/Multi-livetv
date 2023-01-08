@@ -37,26 +37,6 @@
         "url": "https://raw.githubusercontent.com/GGgoBRO/Multi-livetv/builds/MHDTVProvider.cs3",
         "name": "MHDTVProvider"
     },
- 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=snehiptv.netlify.app&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GGgoBRO/Multi-livetv",
-        "fileSize": 12982,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "darkdemon"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "SnehIPTVProvider",
-        "description": "This extension provide live channels from Sonyliv, Voot and Jiotv",
-        "url": "https://raw.githubusercontent.com/GGgoBRO/Multi-livetv/builds/SnehIPTVProvider.cs3",
-        "name": "SnehIPTVProvider"
-    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=jiotv.com&sz=%size%",
         "apiVersion": 1,
