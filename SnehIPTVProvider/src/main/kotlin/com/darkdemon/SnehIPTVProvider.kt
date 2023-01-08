@@ -6,7 +6,7 @@ import com.lagradost.cloudstream3.utils.*
 import com.lagradost.cloudstream3.utils.AppUtils.parseJson
 
 class SnehIPTVProvider : MainAPI() { // all providers must be an instance of MainAPI
-    override var mainUrl = "https://snehiptv.netlify.app"
+    override var mainUrl = "https://tv.googledrivelinks.com"
     override var name = "SnehIPTV"
     override val hasMainPage = true
     override var lang = "hi"
