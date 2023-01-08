@@ -21,7 +21,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=mhdtvworld.xyz&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+        "repositoryUrl": "https://github.com/GGgoBRO/Multi-livetv",
         "fileSize": 17443,
         "status": 1,
         "language": "hi",
@@ -34,14 +34,14 @@
         "version": 3,
         "internalName": "MHDTVProvider",
         "description": "This website support English/Hindi/Kannada/Malayalam/Tamil/Telugu live channels and Hindi Old Movies/Malayalam Movies \n For language in Sports: Please check background image[country flag] of the episode",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/MHDTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/GGgoBRO/Multi-livetv/builds/MHDTVProvider.cs3",
         "name": "MHDTVProvider"
     },
  
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=snehiptv.netlify.app&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+        "repositoryUrl": "https://github.com/GGgoBRO/Multi-livetv",
         "fileSize": 12982,
         "status": 1,
         "language": "hi",
@@ -54,13 +54,13 @@
         "version": 2,
         "internalName": "SnehIPTVProvider",
         "description": "This extension provide live channels from Sonyliv, Voot and Jiotv",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/SnehIPTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/GGgoBRO/Multi-livetv/builds/SnehIPTVProvider.cs3",
         "name": "SnehIPTVProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=jiotv.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+        "repositoryUrl": "https://github.com/GGgoBRO/Multi-livetv",
         "fileSize": 18606,
         "status": 1,
         "language": "hi",
@@ -73,7 +73,7 @@
         "version": 2,
         "internalName": "SoraJioTVProvider",
         "description": " JioTV streams from different available sources",
-        "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/SoraJioTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/GGgoBRO/Multi-livetv/builds/SoraJioTVProvider.cs3",
         "name": "SoraJioTVProvider"
     } 
 ]
