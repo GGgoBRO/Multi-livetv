@@ -58,9 +58,7 @@ open class SoraJioTVProvider : MainAPI() { // all providers must be an instance 
         page: Int,
         request: MainPageRequest
     ): HomePageResponse {
-        val categories = mapOf(
-            "Zee5" to 30,
-            "Sonyliv" to 31,
+        val categories = mapOf(      
             "Sports" to 8,
             "Entertainment" to 5,
             "Movies" to 6,
