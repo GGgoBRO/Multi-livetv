@@ -3,7 +3,7 @@
 
 Multiple indian live tv plugins for cs taken from daarkdemon repo.
 
-All credit goes to him
+All credit goes to them
 
 ## Acknowledgements 
 
